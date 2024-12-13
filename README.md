@@ -6,13 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Learning AI from AI
 - 🎯 Taking experience from every project
-
-
-
-
-
-#####    😎 Just Chill tho' 😎
 <!---
-Velocity-08/Velocity-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Velocity-08/ABOUT-ME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
