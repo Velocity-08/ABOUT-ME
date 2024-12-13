@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Velocity-08
-- 👀 I’m interested in Gen AI & Researching
+- 👀 I’m interested in developing Gen AI & Researching
 - 🌱 I’m currently learning to develop Advanced AI systems
 - 💞️ I’m looking to collaborate on RSEARJARVIS & AQUA SENTINEL (Hypothesis)
 - 📫 How to reach me ... vvbatras08@gmail.com
